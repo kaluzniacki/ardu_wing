@@ -1,6 +1,6 @@
 # Section: CRRCSim
 
-I wanted a training Sim - for me - to brush up on flying an RC plane. I saw how effective it was for teaching Quad
+I wanted a training Sim - for me - to brush up on flying an RC plane. I saw how effective VELOCIDRONE was for teaching Quad
 flying to my son.
 
 I worked with Grok and CRRCSim came up as free, Mac compatible, and Ardupilot compatible. X-Plane would also be great, I

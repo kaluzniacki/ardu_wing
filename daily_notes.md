@@ -3,7 +3,13 @@
 TODO -
 Diagrams
 Hardware List - with costs
-AMA membership
+AMA membership - https://www.modelaircraft.org/membership-options  
+TrustTest - https://trust.modelaircraft.org/
+Drone Registration - 
+
+# 26 May 2025
+Need a LiPo Charger - probably 2s to 4S.
+
 
 
 # 25 May 2025
@@ -13,9 +19,16 @@ TODO - two options diagram
 
 
 
-I need a drawing program - here in PyCharm - Draw.io is nice. Omnigraffel on my Mac is also nice.
+I need a drawing program - here in PyCharm - Draw.io is nice. Omnichannel on my Mac is also nice.
 
-What can I do to round trip diagrams with Grok? NOt much really seems to be the answer right now.
+What can I do to round trip diagrams with Grok? Not much really seems to be the answer right now.
+
+
+AMA press release for higher ceilings at AMA fields. 700ft
+granted at Davis, School St and Bill Martin
+
+Big Deal - 700 ft allowance at Davis, School St and Bill Martin
+
 
 ## Weather Stations
 Portable cheap wireless wind speed/direction - barometer/temperature
