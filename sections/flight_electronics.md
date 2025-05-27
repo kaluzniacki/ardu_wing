@@ -6,11 +6,14 @@ setup of Mini Wing F405. Grok tells me the Ranger 1600 comes with an ESC that ha
 which will power the FC. The ESC 3 wire plugs into S1 on the FC and should provide 5V maybe up to 3A; where 1A is likely
 plenty for the servos and receiver.
 
-![img.png](img.png)
+**NOTE** likely that this will not support battery voltage monitoring which is built into the flight controller. I could install a low battery buzzer,
+or for now, just pay attention to the power. My focus needs to be on getting some data.
+
+![img.png](images/img.png)
 
 The alternative is to use the Power Distribution Board on my Mini Wing 405 and wire it like shown in the 405 documentation.
 
-![img_1.png](img_1.png)
+![img_1.png](images/img_1.png)
 
 The first method is simpler and would require no soldering. Maybe I'll try that first. I might be able to forego the PDB
 in this case, but I'm going to leave it inplace anyway.
@@ -23,6 +26,12 @@ I'll need to pick up a charger, and go through our old bag of LiPos to see if an
 
 I think 4S might be the way to go for now as it should provide more than enough - and maybe enough when we get a camera mounted.
 
+## Flight Controller: SpeedyBee F405 Wing Mini
+This is about $50 and supports Ardupilot. I discussed with Grok, and this seems like a decent option, thought it has some limitations, mainly I think in size of flash memory.
+It does not support a full build of Ardupilot.
+
+See https://oscarliang.com/speedybee-f405-wing-mini-fc/
+
 ## Radio Tx
 Wyatt has a Frsky with TBS Crossfire installed. We will try that first.
 
@@ -34,6 +43,10 @@ I purchased a TBS Crossfire Nano Pro receiver for about $40.
 The radio, the TBS Crossfire Module, the TBS Nano, the Flight Controller, some ESCs - possibly the GPS/RemoteID. All
 have firmware with versions.
 Making this automatic - and being able to log equipment - will be its own challenge for later.
+
+## GPS / RemoteID
+We need to support RemoteID if we plan to do fly outside designated non-ID areas, and I needed GPS in any event.
+Note, that the CRRC fields are designated non-ID, and ceiling of 700 ft. One needs to be an AMA member.
 
 ## Lipo Charger
 This looks nice, but misses on the NiCd option.
