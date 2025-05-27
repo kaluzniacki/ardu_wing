@@ -34,5 +34,12 @@ iNAV and suitability for my Wing and RL goals.
 The most pragmatic course I see is to skip the FPV and camera for now, and just get to something that helps me practice
 flying, and where I can collect some black box data. The full stack aspect is how can I get the round trip of flight data back on my computer.
 
+The use of QGroundControl, which works well on my Mac, for control of the flight needs to be understood.
+
+The use of Telemetry back from the plane, which TBS Crossfire supports.
+
+Blackbox configuration.
+Blackbox download.
+
 
 
