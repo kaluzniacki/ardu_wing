@@ -40,6 +40,10 @@ The use of Telemetry back from the plane, which TBS Crossfire supports.
 
 Blackbox configuration.
 Blackbox download.
+Sections:
+
+## FrSky Setup
+https://upinthesky.github.io/2020/01/15/frsky-taranis-x9d-plus-se-2019-switch-setup-and-configuration-in-betaflight.html
 
 
 
