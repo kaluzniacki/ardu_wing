@@ -11,6 +11,17 @@ AMA Membership - Done
 TrustTest - Done
 Drone ID - Done
 
+# 10 June 2025
+I have CRRC Sim working for training with the Taranis Tx as the controller. I could set up some switches, but it feels good.
+I've thought about the first flights, and like in real life planning is key. Both at Davis field and the Acton School St.
+
+So, lets get some plans set up in QGroundControl where we just hand launch and fly a race track a few hundred ft on a side, come back and land.
+That should also get us some good data, so I'd like to look at black box - which I should be able to do at home - get a little bit.
+
+From what I've read, QGroundControl is good for now, but the other one allows scripting, which sounds great.
+
+
+
 # 9 June 2025
 
 I feel much better about the progress now that I see servos moving. Getting the receiver and FC configured to talk to

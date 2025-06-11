@@ -25,6 +25,25 @@ using.
 
 A bit of practice, mostly for not turning too near the ground, and for keeping an even airspeed, has been good.
 
+Needed to use OpenTX Companion to get Joystick recognized.   
+_"pat6789.  
+2y ago
+MacBook Air M1, Taranis QX7 Access. Couldn't get the Mac to recognize it as a game controller. When I plugged it in with
+USD (thought ANKER hub) a prompt would come up on Taranis screen for Joystick or mass storage selected joystick, that
+didn't do it. Opened Open TX companion 2.3. Preferences menu, third page under Simulator settings There's a little box
+Joystick Enable. Ticked that, now I'm playing Aerofly 9!"_
+
+Had to restart CRRC Sim after using OpenTX to enable joystick - this was in the settings panel. Still need to configure
+a bit to get the right channel and inversion mappings. Not clear if the model I have has ailerons. And, it would be good
+to select an electric model. The Allegro E-Lite worked very nice. It took some config, but I think this will help prep
+me for actually flying. I could either look for a Ranger 1600 model for CRRC Sim, or maybe just increase the wing
+loading on the Allegro to get it to handle more like I expect the Ranger to fly. I could also try that pattern ship
+which should be a faster. I wonder if I can put Ardupilot SITL into CRRC to get my own configurations and fly autopilot
+and so on. I expect to have a flying plane soon, so I should look at the fields - maybe in QGroundControl and plot out
+some initial flights, even just getting the trim right and landing.
+
+
+
 ## Simulation in the Loop
 
 CRRCSim is supposed to be usable in Ardupilot as a SITL solution. I've tried a little bit, and not had luck just yet.

@@ -20,3 +20,14 @@ https://firmware.ardupilot.org/Plane/stable/speedybeef4v4/.
 Looks like HAL_SOARING_ENABLED is set, so is available in the firmware build, but needs to additinally be configured in the setting.
 And set to some switches in the radio.
 
+# Example files
+I collected some data as I"ve been debugging thet FC.
+I think this should be blackbox data.
+log_2_UnknownDate.bin  
+
+
+# GroundControl Telemetry?
+
+# UAV Log Viewer
+https://plot.ardupilot.org/#/  
+
